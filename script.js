@@ -1,1 +1,0 @@
-location.href = "https://clck.ru/3Vranc";
